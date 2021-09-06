@@ -12,7 +12,7 @@
 
 # PreProcessing Strategy
 
--------------------------- 01_Preprocessing_Memory_Saving.ipynb ---------------------------------------
+----------------------------------- 01_Preprocessing_Memory_Saving.ipynb ---------------------------------------
 1. fecha_dato type change datetime (D)
 2. ncodpers : 특징 id-data 모델링 전까진 드랍 (D)
 3. ind_empleado : 고객 분류 A active, B ex employed F filial N not employee P passive  고대로 이용 (D)
@@ -23,7 +23,7 @@
 8. ind_nuevo : 신규 고객 여부 (첫 가입 6개월까지 6개월로 판단) 기존 고객 0 신규 고객 1 pass (D)
 
 
--------------------------- 02_Preprocessing_Memory_Saving.ipynb ---------------------------------------
+----------------------------------- 02_Preprocessing_Memory_Saving.ipynb ---------------------------------------
 
 9. antiguedad : 고객의 연령서열? age와 유사 Drop 하겠다. 
 10. indrel :
