@@ -29,7 +29,7 @@
 
 ----------------------------------- 02_Preprocessing_Memory_Saving.ipynb ---------------------------------------
 
-9. antiguedad : 고객의 연령서열? age와 유사 Drop 하겠다. 
+9. antiguedad : 고객에 대한 royalty 같은 개념, 기간에 따른 로얄티 부여  
 10. indrel : 고객 유형에 대한 정보, 직접 보고 판단
 11. ult_fec_cli_1t : 충성 고객으로 본 마지막 날
 12. inderl_1mes : 고객 유형에 대한 정보, 직접 보고 판단
