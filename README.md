@@ -1,3 +1,8 @@
+
+![](SantanderLogo.png)
+<br>
+<br>
+#
 # Santander Product Recommend 
 스페인 은행 Santander 고객들이 어떤 금융 상품을 구매할 지 분류하는 데이터 분석 과제입니다.<br><br>
 
@@ -6,8 +11,12 @@
 
 # Data Description
 
-해당 Competition 에서는 Santander 은행 고객들의 18개월 분량의 데이터를 사용하게 됩니다. 참여하시는 여러분은 제공 받은 데이터를 통해 고객이 구매할 신제품을 어떤것일지 예측하는 미션을 수행하시게 됩니다<br><br>
-trainset의 Feature는 크게 2 가지 섹터로 분류할 수 있습니다. 첫 째, 고객에 대한 정보로 Column 0 부터 23 이 이에 해당합니다. 예를 들면 고객의 거주 지역(pais_residencia), 신규 고객(ind_nuevo), 가구의 소득(Renta) 등이 담겨져 있습니다.<br><br>
+해당 Competition 에서는 Santander 은행 고객들의 18개월 분량의 데이터를 사용하게 됩니다. 참여하시는 여러분은 제공 받은 데이터를 통해 고객이 구매할 신제품을 어떤것일지 예측하는 미션을 수행하시게 됩니다
+<br>
+<br>
+trainset의 Feature는 크게 2 가지 섹터로 분류할 수 있습니다. 첫 째, 고객에 대한 정보로 Column 0 부터 23 이 이에 해당합니다. 예를 들면 고객의 거주 지역(pais_residencia), 신규 고객(ind_nuevo), 가구의 소득(Renta) 등이 담겨져 있습니다.
+<br>
+<br>
 둘 째, 고객의 상품 보유에 대한 유무 정보로 Column 24 부터가 이에 해당합니다. 예를 들면 급여 계좌(ind_cno_fin_ult1), 펀드(ind_fond_fin_ult1), 장기 예금(ind_dela_fin_ult1), 부동산 담보 대출(ind_hip_fin_unt1) 등이 담겨져 있습니다.
 
 
