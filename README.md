@@ -10,7 +10,8 @@
 # Data
 [Kaggle - Santander Product Recommendation](https://www.kaggle.com/c/santander-product-recommendation/data) <br><br>
 
-train 셋의 경우 용량이 굉장히 큰 편입니다. parquet 확장자로 저장해도 100mb가 넘어 레포지터리에 올릴 수가 없습니다.
+train 셋의 경우 용량이 굉장히 큰 편입니다. parquet 확장자로 저장해도 100mb가 넘어 일반적인 방법으로는 레포지터리에 올릴 수가 없습니다. <br>
+git-lfs를 이용하면 올릴 수 있다는 정보를 얻었습니다. 추후 올리도록 하겠습니다.
 
 # Data Description
 
