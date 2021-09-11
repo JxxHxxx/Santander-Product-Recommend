@@ -45,13 +45,13 @@
 16. conyuemp : 고객이 은행 직원의 배우자인가
 17. canal_entrade : 
 18. indfall : 0(dead), 1(live) 사망한 고객은 은행의 상품을 구매할 수 없으니 일단은 indfall = 0인 Row를 Drop 하겠습니다. 하지만 훈련에는 필요할지 모르니 고려해두고 있겠습니다.
-19. tipodom : 주소 타입
-20. cod_prov : 지방 코드 
-21. nomprov : 지방 이름
+19. tipodom : 주소 타입 Drop 하겠습니다.
+20. cod_prov : 지방 코드 Drop 하겠습니다.
+21. nomprov : 지방 이름 Drop 하겠습니다.
 22. ind_actividad_cliente_Activity : 고객 활성 여부 1(active), 0(inactive) 
 23. renta : 가구원 소득
 24. segmento : 01(VIP), 02(Individuals), 03(College Graduated) Memory 절약을 위해 value를 01 >1, 02 > 2, 03 > 3 으로 변경하겠습니다.
 
 # 정리
 
-거주지에 대한 정보 4, 18, 19, 20
+거주지에 대한 정보 4, 19, 20, 21
