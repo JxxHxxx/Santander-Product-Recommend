@@ -34,7 +34,7 @@
 ----------------------------------- 03_Preprocessing_Memory_Saving.ipynb ---------------------------------------
 
 10. indrel : 고객 유형에 대한 정보, 직접 보고 판단
-11. ult_fec_cli_1t : 충성 고객으로 본 마지막 날
+11. ult_fec_cli_1t : 충성 고객으로 본 마지막 날 결측지가 많습니다. Drop 합니다.
 
 ----------------------------------- 04_Preprocessing_Memory_Saving.ipynb ---------------------------------------
 
@@ -43,7 +43,7 @@
 14. indesi : 스페인 국민 S(Yes)/N(No)
 15. indext : 외국인 S(Yes)/N(No)   indext는 열 13의 indesi의 부정입니다. Drop 하겠습니다.
 16. conyuemp : 고객이 은행 직원의 배우자인가
-17. canal_entrade : 
+17. canal_entrade : drop 합니다.
 18. indfall : 0(dead), 1(live) 사망한 고객은 은행의 상품을 구매할 수 없으니 일단은 indfall = 0인 Row를 Drop 하겠습니다. 하지만 훈련에는 필요할지 모르니 고려해두고 있겠습니다.
 19. tipodom : 주소 타입 Drop 하겠습니다.
 20. cod_prov : 지방 코드 Drop 하겠습니다.
