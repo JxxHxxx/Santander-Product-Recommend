@@ -35,6 +35,9 @@
 
 10. indrel : 고객 유형에 대한 정보, 직접 보고 판단
 11. ult_fec_cli_1t : 충성 고객으로 본 마지막 날
+
+----------------------------------- 04_Preprocessing_Memory_Saving.ipynb ---------------------------------------
+
 12. inderl_1mes : 고객 유형에 대한 정보, 직접 보고 판단
 13. indesi : 스페인 국민 S(Yes)/N(No)
 14. indext : 외국인 S(Yes)/N(No)   indext는 열 13의 indesi의 부정입니다. Drop 하겠습니다.
