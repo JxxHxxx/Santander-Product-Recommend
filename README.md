@@ -10,6 +10,8 @@
 # Data
 [Kaggle - Santander Product Recommendation](https://www.kaggle.com/c/santander-product-recommendation/data) <br><br>
 
+train 셋의 경우 용량이 굉장히 큰 편입니다. parquet 확장자로 저장해도 100mb가 넘어 레포지터리에 올릴 수가 없습니다.
+
 # Data Description
 
 해당 Competition 에서는 Santander 은행 고객들의 18개월 분량의 데이터를 사용하게 됩니다. 참여하시는 여러분은 제공 받은 데이터를 통해 고객이 구매할 신제품을 어떤것일지 예측하는 미션을 수행하시게 됩니다
