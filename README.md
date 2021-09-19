@@ -80,3 +80,8 @@ ind_nomina_ult1	|Payroll
 ind_nom_pens_ult1	|Pensions
 ind_recibo_ult1	|Direct Debit
 
+# 난관들
+
+1. 데이터 규모와 전처리
+2. Feature selection
+3. 분류 유형이 단순 분류, 다중 분류의 개념을 벗어남 예를 들어 타이타닉 생존자 Survived , Dead 나 대출 고객 유형의 상환, 유예, 파산 이런 다중 분류의 개념도 아님
