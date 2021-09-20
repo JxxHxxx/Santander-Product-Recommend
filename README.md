@@ -24,9 +24,6 @@ trainset의 Feature는 크게 2 가지 섹터로 분류할 수 있습니다. 첫
 둘 째, 고객의 상품 보유에 대한 유무 정보로 Column 24 부터가 이에 해당합니다. 예를 들면 급여 계좌(ind_cno_fin_ult1), 펀드(ind_fond_fin_ult1), 장기 예금(ind_dela_fin_ult1), 부동산 담보 대출(ind_hip_fin_unt1) 등이 담겨져 있습니다.
 
 
-
-
-
 # Data Field
 
 |Column Name|	Description|
@@ -79,6 +76,12 @@ ind_viv_fin_ult1	|Home Account
 ind_nomina_ult1	|Payroll
 ind_nom_pens_ult1	|Pensions
 ind_recibo_ult1	|Direct Debit
+
+# RECOMMENDATION SYSYTEM
+
+해당 과제를 수월하게 수행하기 위해서는 [추천시스템](https://lsjsj92.tistory.com/563)에 대한 이해가 필요하다고 생각한다.
+추천시스템 중 많은 Code와 Discussion 이 공유되어 있는 [영화추천시스템](https://www.kaggle.com/rounakbanik/the-movies-dataset)을 참고하는 것도 좋은 방법이라고 생각한다.
+
 
 # 난관들
 
